@@ -1,7 +1,5 @@
-class EmployeeApplication
-{
-    public static void main(String[] args)
-    {
+class EmployeeApplication {
+    public static void main(String[] args) {
         Employee e1 = new Employee();
         e1.id = 11;
         e1.name = "Avi";
